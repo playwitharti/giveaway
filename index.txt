@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>ARTI Pickleball Giveaway</title>
+  
+  <!-- Klaviyo Tracking Script -->
+  <script type="text/javascript">
+    (function() {
+      var kl = document.createElement("script");
+      kl.type = "text/javascript"; kl.async = true;
+      kl.src = "https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=T95FDj";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(kl, s);
+    })();
+  </script>
+
+  <script>
+    // Wait until Klaviyo script loads and then open the form
+    window._klOnsite = window._klOnsite || [];
+    window._klOnsite.push(['openForm', 'Wd4kZt']);
+  </script>
+</head>
+<body>
+  
+  <!-- This div hosts your Klaviyo form -->
+  <div class="klaviyo-form-Wd4kZt"></div>
+
+</body>
+</html>
